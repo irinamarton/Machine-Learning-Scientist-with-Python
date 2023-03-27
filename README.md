@@ -8,3 +8,6 @@
 ### [Unsupervised Learning in Python](https://github.com/irinamarton/Machine-Learning-Scientist-with-Python/blob/main/Unsupervised_Learning_in_Python.ipynb)
 
 ### [Linear Classifiers in Python](https://github.com/irinamarton/Machine-Learning-Scientist-with-Python/blob/main/Linear_Classifiers_in_Python.ipynb)
+
+
+### [Introduction to Deep Learning in Python](https://github.com/irinamarton/Machine-Learning-Scientist-with-Python/blob/main/Introduction_to_Deep_Learning_in_Python.ipynb)
